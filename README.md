@@ -22,6 +22,7 @@ If you start the script and on the initial iteration there is not enough volume 
 You can change the config settings at the top of the file, changing the `WINDOW`, as well as disable/enable the exchanges.
 
 After you have changed these settings, you can simply run the script like this:
+
 `$ python price_feed.py`
 
 ### Know issues?
